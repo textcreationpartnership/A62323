@@ -1,0 +1,552 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jethro's character of worthy judges an assise-sermon preached at Northampton, March 22, 1663 / by Antonie Scattergood.</title>
+            <author>Scattergood, Antony, 1611-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62323</idno>
+            <idno type="STC">Wing S842</idno>
+            <idno type="STC">ESTC R38218</idno>
+            <idno type="EEBO-CITATION">17214639</idno>
+            <idno type="OCLC">ocm 17214639</idno>
+            <idno type="VID">106248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1100:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jethro's character of worthy judges an assise-sermon preached at Northampton, March 22, 1663 / by Antonie Scattergood.</title>
+                  <author>Scattergood, Antony, 1611-1687.</author>
+               </titleStmt>
+               <extent>[4], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Richard Marriott, and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ornatissimo viro Eduardo Onley agri Northamtoniensis vicecomiti, et lectissimæ ejus conjugi Margaretæ, Antonius Scattergood hanc opellam D.D.D."--P. [1]</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Exodus XVIII, 21 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="dedication">
+            <pb facs="tcp:106248:1"/>
+            <pb facs="tcp:106248:1"/>
+            <p>ORNATISSIMO <hi>VIRO</hi> EDVARDO ONLEY <hi>AGRI NORTHAMTONIENSIS VICECOMITI,</hi> ET LECTISSIMAE EJUS CONJUGI MARGARETAE, <hi>ANTONIUS SCATTERGOOD</hi> HANC OPELLAM <hi>D. D. D.</hi>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:106248:2"/>
+            <pb facs="tcp:106248:2" rendition="simple:additions"/>
+            <p>
+               <hi>JETHRO</hi>'s CHARACTER OF Worthy Judges.</p>
+            <p>AN Aſſiſe-Sermon <hi>PREACHED AT</hi> NORTHAMPTON <hi>MARCH</hi> 22. 1663.</p>
+            <p>By <hi>Antonie Scattergood</hi> D. D.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. G.</hi> for <hi>Richard Marriott,</hi> and are to be ſold at his Shop under St. <hi>Dunſtans</hi> Church in <hi>Fleet-ſtreet.</hi> 1664.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:106248:3" rendition="simple:additions"/>
+            <p>
+               <hi>IMPRIMATUR:</hi>
+            </p>
+            <closer>
+               <signed>Joh: Hall <hi>R. P. D.</hi> Humfr: Epiſc. Lond. à Sac. Domeſt.</signed>
+               <date>
+                  <hi>April 5. 1664.</hi>
+               </date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:106248:3"/>
+            <head>
+               <hi>JETHRO'S</hi> Character of Worthy JUGDES.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EXOD. 18.21.</hi>
+                  </bibl>
+                  <p>—able men, ſuch as fear God, men of truth, hating covetouſneſs.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this Chapter is ſet down how it came to paſs, that Moſes, who hi<g ref="char:EOLhyphen"/>therto had born the burthen of ſix hundred thouſand men himſelf a<g ref="char:EOLhyphen"/>lone, hearing, examining, and de<g ref="char:EOLhyphen"/>ciding even their leſſer cauſes, was perſwaded, for his own eaſe, and the benefit of all Iſrael, to make choice of ſome worthy perſons to be his <hi>helps in government,</hi> and to give commiſsion and charge unto them to <hi>judge the people at all ſeaſons.</hi>
+               <note place="margin">v 22.</note> It was the counſel of Jethro that put him upon this courſe of erecting and conſtituting as it were a new polity.<note place="margin">v. 1-6.</note> For he being come out of Midian to con<g ref="char:EOLhyphen"/>gratulate the Iſraelites deliverance out of Egypt, and to give his Son-in-law a viſit in the wilderneſs, and obſerving the pains he took in judging and
+<pb n="2" facs="tcp:106248:4"/>determining of controverſies <hi>from morning till evening,</hi>
+               <note place="margin">ver. 13.</note> like a prudent and experienced Prince, and like a faithful friend, he blameth him for it, as being a burthen too heavy for the ſhoulders of any ſingle perſon, and adviſeth him to ſelect and ordain Judges and inferiour Magiſtrates, who would greatly leſſen the trouble he underwent, by bearing each of them his ſhare of it. Sage counſel this! But what need had Moſes that Je<g ref="char:EOLhyphen"/>thro ſhould give it him? He having the Divine Oracle to conſult upon all occaſions, and God vouchſafing ſo to honour and befriend him as to <hi>ſpeak with him mouth to mouth,</hi>
+               <note place="margin">Numb. 12 8.</note> 
+               <hi>even apparently, and not in dark ſpeeches,</hi> one would think it had been altogether ſuperfluous for this <hi>King in Je<g ref="char:EOLhyphen"/>ſurun</hi> to receive inſtructions from <hi>the Prieſt</hi> or <hi>Prince of Midian</hi> how to menage his Office,<note place="margin">Deut. 33.5. Exod. 18.1.</note> how to rule God's people. But thus it pleaſed God to exerciſe and encreaſe the humility and meek<g ref="char:EOLhyphen"/>neſs of his ſervant by putting him to learn pru<g ref="char:EOLhyphen"/>dence and policy from one who was in many re<g ref="char:EOLhyphen"/>ſpects his inferiour.</p>
+            <p>Thus the great Doctour of the Gentiles was by Chriſt's own appointment,<note place="margin">Acts 9, &amp; 22.</note> who appeared un<g ref="char:EOLhyphen"/>to him, ſent into Damaſcus, that there Ananias might cure him as well of his ſpiritual as of his bo<g ref="char:EOLhyphen"/>dily blindneſs, that from him he might hear the firſt leſſons of Chriſtianity, and know what he was to do and to ſuffer for Chriſt's ſake. And the Angel's buſineſs with Cornelius was,<note place="margin">Acts 10.</note> not to preach the Goſpel to him, but to give him directi<g ref="char:EOLhyphen"/>ons to find and ſend for Simon Peter, whoſe of<g ref="char:EOLhyphen"/>fice it was to do it. Thus it is the good pleaſure
+<pb n="3" facs="tcp:106248:4"/>of God now, that we ſhould all ordinarily be taught our duty, not by a meſſenger from the dead, nor by an Angel from heaven, nor by God's immediate voice or revelation, but by men like ourſelves. The precious <hi>treaſure</hi> of knowledge is conveyed unto us through <hi>earthen veſſels:</hi> And it is our duty to be content, yea glad, thus to re<g ref="char:EOLhyphen"/>ceive it; to look upon Truth, whoever ſpeak<g ref="char:EOLhyphen"/>eth it, as a ray of Divine light, and to embrace wholſome counſel from the mouth of the meaneſt. And there is none indeed ſo mean and ſimple but the greateſt and wiſeſt upon earth may haply one time or other learn ſomething from him. The Wiſdom and Bounty of Heaven hath ſo diſpoſed things below, ſo diſpenſed the bleſsings we enjoy, that no man hath all, and that every one hath ſome; none is abſolute and perfect, none quite empty and deficient; and this, to the end that both the ſenſe of our wants may keep us humble, and the mutual dependency that there is amongſt us may make us love and not contemn one ano<g ref="char:EOLhyphen"/>ther; that <hi>the Head</hi> may <hi>not ſay to the Feet,</hi>
+               <note place="margin">1 Cor. 12 21.</note> 
+               <hi>I have no need of you.</hi>
+            </p>
+            <p>This leſſon meek Moſes here had well learnt; and he may teach us all by his example. He was queſtionleſs the wiſeſt and moſt excellent perſon then in the world: He had been bred up in Pha<g ref="char:EOLhyphen"/>raoh's Court,<note place="margin">Acts 7.22.</note> and ſo became <hi>learned in all the wiſdom of the Egyptians:</hi> He <hi>was mighty in words and deeds;</hi> he bore in his hand a rod far more potent then any ſceptre, by which he dark<g ref="char:EOLhyphen"/>ned the air, dried the ſea, broched the rocks, ruled the creature at his pleaſure: He was the
+<pb n="4" facs="tcp:106248:5"/>Guide and Judge of a mighty nation, the then only viſible Church of God: And (which was his greateſt dignity) he was <hi>the Servant of the Lord,</hi>
+               <note place="margin">Deut. 34 5. Exod. 33.11.</note> and familiarly converſed with him as one <hi>friend</hi> doth with another. Yet this mighty and worthy Perſonage patiently heareth himſelf taxed for ſeeming to be ignorant of that which almoſt every body knoweth by common experience,<note place="margin">Exod. 18.17, 18.</note> That overmuch pains will aſſuredly wear and waſt the pains-taker; and to be plainly told he did not well in taking upon him the ſole adminiſtration of ju<g ref="char:EOLhyphen"/>ſtice to ſo vaſt a multitude, and that both himſelf and the people under his charge and conduct would ſorely rue it if he did not aſſume ſome able and well-qualified perſons to be his aſsiſtants in that weighty affair. This he heareth quietly from one who was <hi>a ſtranger from the Commonwealth of Iſrael,</hi> and whom ſome hold to have been an idolater and ignorant of the true God: But this is too harſh a cenſure, and very improbable, as appeareth both from many paſſages in this Chapter, and from Moſes's ſo long living with him, and at length marrying of his daughter. Whatever Jethro was, Moſes meekly gave him the hearing, and neither juſtified himſelf, nor blamed his reprover for ſeem<g ref="char:EOLhyphen"/>ing too curious and buſie <hi>in aliena republica,</hi> and meddling with that which nothing concerned him; But, inſtead of that, he <hi>hearkned to the voice of his Father-in-law, and did all that he had ſaid,</hi> as ye read ver. 24. and may ſee further in the end of this Chapter, and in the firſt of Deute<g ref="char:EOLhyphen"/>ronomie.</p>
+            <p>Let us all, Beloved, of what degree or calling
+<pb n="5" facs="tcp:106248:5"/>ſoever, imitate this great Mirrour of meekneſs, and be willing to be told of the errour of our ways, and of the way how to amend them, though it be by the meaneſt of God's meffengers. Hitherto ye have had only a Preface to the Text; but, if ye pleaſe, let it ſerve for a Preface to the Sermon alſo.</p>
+            <p>In the words I have made choice to treat of at this time, are contained certain Characters or Notes which Jethro held requiſite to be in thoſe whom Moſes ſhould employ in Courts of Judicature, and make Miniſters of juſtice under him: They muſt be <hi>able men, ſuch as fear God, men of truth, hating covetouſneſs.</hi> In the handling of which points there is no better method then to take the words as they lie in order.</p>
+            <p>I. ABLE MEN. There is a threefold Ability requiſite in Magiſtrates. They ſhould have 1. <hi>able</hi> Heads, 2. <hi>able</hi> Hearts, 3. <hi>able</hi> Hands. They ought to be 1. men of Wiſdom and Diſcretion, 2. men of Courage and Activity, 3. men of Power and good Eſtate.</p>
+            <p n="1">1. <hi>Wiſdom,</hi> ſaith the Wiſe-man,<note place="margin">Prov. 4.7.</note> 
+               <hi>is the princi<g ref="char:EOLhyphen"/>pal thing.</hi> Therefore he exhorteth us <hi>to get wiſ<g ref="char:EOLhyphen"/>dom, and with all our getting to get underſtanding.</hi> Whatever our profeſsion or employment be,<note place="margin">Eccl. 10.10.</note> 
+               <hi>wiſ<g ref="char:EOLhyphen"/>dom is profitable to direct.</hi> This will teach us to follow our callings and to order all our affairs with diſcretion. <hi>Through</hi> this <hi>is the houſe builded,</hi> and furniſhed too, Prov. 24.3, 4. This inſtructeth the plowman to ſow and order his corn, Iſa. 28. And this teacheth the artificer how to handle his tools. In this book of Exodus they are often ſaid to have
+<pb n="6" facs="tcp:106248:6"/>been <hi>wiſe-hearted</hi> and <hi>filled with wiſdom</hi> that wrought about the Tabernacle. And if thoſe lower trades cannot be rightly menaged without Wiſdom, how neceſſary an ornament and accom<g ref="char:EOLhyphen"/>pliſhment will it be to thoſe whoſe <hi>art</hi> it is, as the Prince of Poets ſpeaketh,
+<q>
+                  <l>—regere imperio populos,—<note place="margin">Virg. Aen. <hi>6.851.</hi>
+                     </note>
+                  </l>
+                  <l>— pacíq imponere morem,</l>
+                  <l>Parcere ſubjectis, &amp; debellare ſuperbos,</l>
+               </q> to maintain Juſtice and Peace amongſt the peo<g ref="char:EOLhyphen"/>ple, to protect the innocent, and to ſuppreſs the oppreſſour! Certainly Wiſdom is needful either here, or nowhere. The word KING, which in our language ſignifieth the ſupreme Magiſtrate, is derived, they ſay, from cyning, which in the Saxon tongue ſignifieth <hi>Cunning, Skill, Know<g ref="char:EOLhyphen"/>ledge;</hi> Wherein Kings eſpecially ſhould abound. This will be unto them an ornament <hi>better then ru<g ref="char:EOLhyphen"/>bies,</hi> and <hi>a defence better then ſtrength</hi> or <hi>then wea<g ref="char:EOLhyphen"/>pons of war.</hi>
+               <note place="margin">Prov. 8.11. Eccl. 7.11. &amp; 9.16, 18.</note> It was therefore one of the wiſeſt acts that we find recorded of the wiſeſt of Kings, that being put to his choice what he would receive of the Giver of <hi>every good and perfect gift,</hi> he ſaid, <hi>Give thy ſervant an underſtanding heart, to judge thy people, that I may diſcern between good and bad,</hi> 1 King. 3.9. But becauſe, as Jethro telleth Moſes, the adminiſtring of juſtice to a whole nati<g ref="char:EOLhyphen"/>on is a task too heavy for any one man to perform himſelf alone, (<hi>Who is able to judge,</hi> ſaith Solo<g ref="char:EOLhyphen"/>mon there, <hi>this thy ſo great a people?</hi>) therefore it is an eſpecial point of Kingly prudence to ſubſti<g ref="char:EOLhyphen"/>tute, as Moſes is here adviſed, well-qualified and worthy Perſons to diſchage that office under him.</p>
+            <p>
+               <pb n="7" facs="tcp:106248:6"/>
+And, bleſſed be God, our Moſes, who hath been wonderfully hid (by the care of females too) and graciouſly preſerved from bloud-thirſty Ty<g ref="char:EOLhyphen"/>rant, who hath eſcaped (as Moſes did) perils by water and perils by land, and who hath been brought out of exile (as Moſes out of Midian) to rule and govern this our Iſrael; This our Moſes, I ſay, hath ſhewn his Princely wiſdom and care over his people in <hi>providing able men</hi> to <hi>judge</hi> them <hi>at all ſeaſons;</hi> Men well verſed in the Law of God, men well learned in the Laws of the Land, men of mature age and deep experience; who have freſh in their memories the Reports of ancient Sa<g ref="char:EOLhyphen"/>ges, <hi>reſponſa prudentum, &amp; ſententias judicum;</hi> who having been acquainted with trials of all ſorts, know how to receive informations, examin witneſ<g ref="char:EOLhyphen"/>ſes, ſift out the truth, put a quick end to ſuits with<g ref="char:EOLhyphen"/>out unneceſſary demurrers and protractions; who can pluck off the fair diſguiſe that is ſometimes put upon a foul cauſe, lay open the falſhood of ſubtile and cunning men, and ſo defeat the crafty and clear the innocent; who have the Balance of Juſtice in one hand as well as the Sword in the other, and ha<g ref="char:EOLhyphen"/>ving exactly weighed what is brought before them, can tell when to uſe the rigour of the Law, and when mitigation and equity ſhould be exerciſed.</p>
+            <p>Such <hi>able men</hi> are the reverend Judges of this land. Such, I am ſure, all Judges ought to be; And not only they, but alſo all others proportionally who have any thing to do in Courts of Juſtice, all that be Aſſeſſours on the Bench, or Pleaders at the Bar, or empannelled for the Jury; they ſhould be all <hi>able men</hi> in this firſt ſenſe, men of good skill and
+<pb n="8" facs="tcp:106248:7"/>judgment in ſuch matters as they take in hand, men of wit and dexterity to expedite and diſpatch them. Then they may be able to promote juſtice: But otherwiſe they cannot but be perverters or hinderers of it. For none can be competent judges of what they underſtand not. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſaith the Philoſopher.<note place="margin">Ariſt. Eth. <hi>1.</hi>
+               </note> Knowledg is a neceſſary help to Judgment. They muſt be <hi>able men</hi> that judge.</p>
+            <p>To blame then are they who having empty heads, but ambitious or covetous hearts, ſay with Abſalom,<note place="margin">2 Sam. 15.4.</note> 
+               <hi>Oh that I were made judge in the land, that every man which hath any ſuit or cauſe might come unto me, and I would do him juſtice.</hi> They would have the credit and profit of the place, but are void both of care and ability to diſcharge it. Vain men! that gape after Honour, which is but a bubble,<note place="margin">Prov. 23.5.</note> and catch at Riches, which are <hi>nothing,</hi> and conſider not what a fearful Wo would hang over their heads if they had their wiſh, namely that in the Prophet,<note place="margin">Iſa. 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.20.</note> 
+               <hi>Wo unto them that call evil good, and good evil; that put darkneſs for light, and light for darkneſs; that put bitter for ſweet, and ſweet for bitter.</hi> A groſs miſtake. But thus un<g ref="char:EOLhyphen"/>doubtedly would theſe men miſtake, if once ſet in the ſeat of judgment, being deſtitute of the main qualification of a Judge, the ſpirit of judgment and diſcerning.<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 23.</note> They would <hi>juſtifie the wicked, and take away the righteouſneſs of the righteous from him.</hi>
+            </p>
+            <p>Beloved, the right way to Honour is Virtue: And it is better far to deſerve preferment, and yet not have it, then to have it, and not deſerve it. Labour then for real worth, and wait for reward
+<pb n="9" facs="tcp:106248:7"/>till he who is the fountain of honour ſhall think fit to beſtow it. To do otherwiſe, to look for ad<g ref="char:EOLhyphen"/>vancement and advantages without deſert, is as abſurd and prepoſterous as if a man ſhould exſpect to reap when he hath not ſown, to receive wages without doing his work, and to ſee a ſhadow where there is neither light nor ſubſtance. So much of the firſt ſort of Ability that is requiſite in Magi<g ref="char:EOLhyphen"/>ſtrates; They muſt have <hi>able</hi> Heads. Next, they muſt have</p>
+            <p n="2">2. <hi>Able</hi> Hearts, that is, Hearts full of courage and reſolution to do what they know is their duty. A good Second this unto the former. Skill with<g ref="char:EOLhyphen"/>out Will, Wiſdom in the brain without Freedom in the breaſt, is altogether unactive and to no pur<g ref="char:EOLhyphen"/>poſe, like a good weapon that is never drawn out, but ſtill reſteth and ruſteth in its ſcabbard; or, like a man who, having a journey to go, hath eyes to ſee his way, but no legs to walk in it. On the other ſide, Courage not guided by Knowledge is like metall in a blind horſe, carrying him on apace toward blocks or downfalls; or, like a ſharp ſword in the hand of a fool or a mad-man, wounding whom it ſhould not. But <hi>ſi non proſunt ſingula juncta juvant.</hi> Theſe two, a good Head, and a great Heart, though when apart one from the o<g ref="char:EOLhyphen"/>ther they avail little or nothing, yea are often dan<g ref="char:EOLhyphen"/>gerous and hurtful both to others and to them that have them, yet when they go together in a Magi<g ref="char:EOLhyphen"/>ſtrate, they ſerve to make him almoſt complete: Like Caſtor and Pollux, who appearing ſingle were counted of old ſad <hi>omens,</hi> portending ill luck to mariners, but when they were ſeen both at once,
+<pb n="10" facs="tcp:106248:8"/>
+               <hi>ſimul &amp; ſemel,</hi> they ſignified a ſucceſſeful voyage.</p>
+            <p>Beloved, the veſſel wherein we are all embarked, the great Ship of this Kingdom, is likely to ſail on proſperouſly, ſo long as we ſee upon our ſails or maſts thoſe lucky <hi>Gemini,</hi> thoſe twin-ſtars, the light of Knowledge, and the fire of Zele; ſo long as thoſe who ſit at the helm, and ſee to the ſteerage of our courſe, are both skilful in their Compaſs, and careful to obſerve it. Let us therefore pray often to Him that <hi>ſitttth upon the water-floud,</hi>
+               <note place="margin">Pſal 29.10. Iſa. 11.9 Am. 5.24.</note> that as our Land is <hi>full of Knowledge, as the waters cover the ſea,</hi> ſo <hi>Judgment</hi> may <hi>run down</hi> in it <hi>as waters, and Righteouſneſs like a mighty ſtream;</hi> And to this end, that he would bleſs all thoſe whoſe office it is to execute juſtice amongſt us, eſpecially the reverend and learned Judges; that as he hath gi<g ref="char:EOLhyphen"/>ven unto them <hi>the ſpirit of Counſel,</hi>
+               <note place="margin">Iſa 11.2.</note> ſo he would alſo give unto them <hi>the ſpirit of Might,</hi>
+               <note place="margin">1 Chr. 22.13.</note> that they may ſtill <hi>be ſtrong and of good courage,</hi> that they may <hi>not dread,</hi>
+               <note place="margin">2 Chr. 19.11.</note> 
+               <hi>nor be diſmayed,</hi> but <hi>deal couragi<g ref="char:EOLhyphen"/>ouſly;</hi> that they may not reſpect the perſons, or letters, or promiſes, nor fear the faces, or frowns, or threats of men, but with an undaunted courage do juſtice to all unpartially, maintaining the cauſe of the innocent,<note place="margin">Job 29.17.</note> though never ſo poor, and <hi>breaking the jaws of the oppreſſour, and plucking the ſpoil out of his teeth,</hi> though he be never ſo great.</p>
+            <p>Thus doing they will do God, their Prince, their Country, yea and themſelves alſo, good ſervice. By obeying the will and imitating the example of that <hi>Judge of all the earth,</hi>
+               <note place="margin">Gen 18.25. Pſal. 9 4.</note> who <hi>ſitteth in the throne judging right,</hi> they will deſerve thoſe high titles, that are given them Pſal. 82.6. <hi>I have ſaid, Ye are
+<pb n="11" facs="tcp:106248:8"/>Gods, and all of you are Children of the moſt High.</hi> Their Tribunals will prove ſtays and props unto the King's <hi>Throne,</hi>
+               <note place="margin">Prov. 16.12.</note> which <hi>is eſtabliſhed by righteouſ<g ref="char:EOLhyphen"/>neſs.</hi> They will uphold the Commonwealth from confuſion and ruine, and procure the bleſsings of God upon it. They will have the prayers and praiſes of good people here, and receive from <hi>the righteous Judge the crown of righteouſneſs</hi> here<g ref="char:EOLhyphen"/>after.<note place="margin">2 Tim 4.8.</note>
+            </p>
+            <p>But thoſe who, being called to the office and dignity of a Judge, ſuffer baſe unworthy fear to bear ſway in them, and dare not go on, as they ought, in the courſe of juſtice by reaſon of ſome <hi>lion</hi> they phanſie to lie <hi>in their way;</hi>
+               <note place="margin">Prov. 26.13.</note> Thoſe who had rather wrong a poor innocent, then by doing him right forfeit the favour and incur the diſplea<g ref="char:EOLhyphen"/>ſure of ſome great man; Thoſe who, with <hi>Gallio,</hi>
+               <note place="margin">Acts 18.17.</note> out of negligence or love of eaſe <hi>care for none of thoſe things</hi> which by vertue of their place they are bound to care for; or, with <hi>Feſtus,</hi>
+               <note place="margin">Acts 24.27.</note> 
+               <hi>to do</hi> the multi<g ref="char:EOLhyphen"/>tude <hi>a pleaſure,</hi> can find in their hearts <hi>to leave</hi> a righteous man <hi>bound;</hi> or, with <hi>Pilate,</hi>
+               <note place="margin">John 19.12, &amp;c.</note> to avoid Ceſar's frown and the loſs of their place, can di<g ref="char:EOLhyphen"/>ſpenſe with their conſcience for once, and doom a moſt innocent perſon to death; Such Judges as theſe diſgrace themſelves and their honourable calling by their faint-heartedneſs; and by uſing unlawful means to ſave their own ſtake and to gain the favour of mortal men,<note place="margin">Hebr. 10 31. &amp; 12.29.</note> they <hi>fall into the hands of the living God,</hi> who is <hi>a conſuming fi e.</hi>
+            </p>
+            <p>Beloved, let us all, both Magiſtrates and people, baniſh puſillanimous fear out of our boſoms. No paſsion ſo much diſquieteth our minds, none ſo
+<pb n="12" facs="tcp:106248:9"/>much oppoſeth Reaſon and Religion, as this. It <hi>betrayeth the ſuccours which Reaſon offereth:</hi>
+               <note place="margin">Wiſd. 17.12.</note> It ma<g ref="char:EOLhyphen"/>keth a man <hi>chuſe iniquity rather then affliction,</hi>
+               <note place="margin">Job 36.21.</note> prefer a whole skin before a ſound conſcience, <hi>truſt God with his ſoul rather then men with his eſtate,</hi> as was lately ſaid and practiced by too many. In a word, he that is baſely fearful and cowardly is ſo far from being a good Magiſtrate that he cannot be a good man till that aguiſh diſtemper be well driven out of him. Out with it then in God's name; and let us all in this ſenſe become <hi>able men,</hi> men of courage and action,<note place="margin">Rom. 12.11.</note> 
+               <hi>not ſlothful in buſineſs, fervent in ſpirit, ſerving the Lord</hi> with all our might in the perfor<g ref="char:EOLhyphen"/>mance of thoſe duties that either our general or our particular calling obligeth us unto,<note place="margin">Jer. 48.10.</note> that ſo we may eſcape the <hi>curſe</hi> that is threatned againſt thoſe that <hi>do the work of the Lord negligently,</hi> and be commended and rewarded with <hi>good and faithful ſervants</hi> at our Maſter's coming.<note place="margin">Matth. 25.21, 23.</note> I come to the laſt kind of Ability that ſhould be in Judges. They muſt not only have <hi>able</hi> Heads, and <hi>able</hi> Hearts, but</p>
+            <p n="3">3. <hi>Able</hi> Hands. I mean, They muſt be <hi>able</hi> in outward matters. The word in the Original, be<g ref="char:EOLhyphen"/>ſides that Ability of mind ye have heard of, ſigni<g ref="char:EOLhyphen"/>fieth many other things; as 1. <hi>Ability of body,</hi> 2. <hi>a Multitude of people,</hi> 3. <hi>Power and Authority,</hi> 4. <hi>Riches and Eſtate;</hi> All of them fit accouſtre<g ref="char:EOLhyphen"/>ments of a Judge. Of the three firſt but a little, and of the fourth not much.</p>
+            <p>Firſt, Judges have need of able Bodies. Other<g ref="char:EOLhyphen"/>wiſe,<note place="margin">Exod 18.13, 14.</note> how can they endure to <hi>ſit</hi> day after day <hi>from morning till evening</hi> (as Moſes did) in Courts of
+<pb n="13" facs="tcp:106248:9"/>judicature, carefully and heedfully attending every tranſaction? Otherwiſe, how can they twice a year ride long <hi>circuits</hi> (as Samuel did) and <hi>judge</hi> the people <hi>in ſeveral places?</hi> Otherwiſe, how can they,<note place="margin">1 Sam. 7.16.</note> when they are returned to their houſes, take ſo great pains as they do in their Studies, that by en<g ref="char:EOLhyphen"/>creaſing their knowledge they may encreaſe their judgment, and by learning from the dead may be the better furniſhed to inſtruct the living? This laſt is not the leaſt of their labours, <hi>much reading,</hi> as well as much riding, <hi>being a wearineſs to the fleſh.</hi>
+               <note place="margin">Eccl. 12.12.</note>
+            </p>
+            <p>Secondly, the word ſignifieth <hi>a Multitude,</hi> or <hi>great Aſſembly.</hi> And this it is meet, more then meet, that my Lords the Judges, when they are upon the King's and Countrey's ſervice, ſhould ſtill ſee about them; that not onely the Sheriff with his train, and the Juſtices and other Gentle<g ref="char:EOLhyphen"/>men, but alſo a good part of the body of the Coun<g ref="char:EOLhyphen"/>ty ſhould attend at the Aſsiſe, to the end they may honour the perſons of the Judges, credit and coun<g ref="char:EOLhyphen"/>tenance the proceedings in the Courts, and being preſent when Oppreſſours and Malefactours are juſtly ſentenced, may <hi>hear</hi> and <hi>fear,</hi> and learn <hi>not to do preſumptuouſly.</hi>
+            </p>
+            <p>Thirdly, the word ſignifieth <hi>Power and Autho<g ref="char:EOLhyphen"/>rity.</hi> And this ought all Judges to be inveſted withall. Otherwiſe their Wiſdom and Zele will avail but little for the publick good.</p>
+            <q>— Vana eſt ſine viribus ira.</q>
+            <p>How ſharp ſoever the edge of a weapon be, yet if it have no back, it will flag, and give feeble and un<g ref="char:EOLhyphen"/>certain ſtrokes. So if a Judge want power, though he ſay what he ought, the people will do what they
+<pb n="14" facs="tcp:106248:10"/>liſt, and diſpute and deſpiſe his ſentence at plea<g ref="char:EOLhyphen"/>ſure. To prevent this, all Magiſtrates ought to be armed and backed by their Maſter who employ<g ref="char:EOLhyphen"/>eth them. And ſo our Judges are. They are <hi>Juſtitiarii Domini Regis,</hi> my Lord the King's Ju<g ref="char:EOLhyphen"/>ſticiers: And <hi>where the word of a King is,</hi>
+               <note place="margin">Eccl. 8.4.</note> 
+               <hi>there is power.</hi> They are authorized by his Commiſsion who, under God, hath the ſupreme power in the Nation; and they are aſsiſted by him who, under the King, hath the <hi>Poſſe Comitatûs,</hi> the ſupreme power in the County; whoſe office it is to ſee that done which the Judge hath ſaid, and his words tur<g ref="char:EOLhyphen"/>ned into works.</p>
+            <p>Fourthly, the word ſignifieth <hi>Wealth</hi> and <hi>great Eſtate.</hi>
+               <note place="margin">In locum.</note> And this Grotius ſeemeth to conceive to be principally, if not onely, meant here. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> (ſaith he) <hi>opulentos ſignificat.</hi> And he giveth two reaſons why none but rich and wealthy perſons ſhould be choſen Judges; <hi>Tales enim &amp; dignita<g ref="char:EOLhyphen"/>tem tuentur meliùs, &amp; longiùs abſunt ab inhoneſti quaeſtûs ſuſpicione;</hi> Such as have large and fair eſtates both are better able to maintain the dignity of that high calling, and ſhall alſo be freer from the ſuſpicion of corruption and diſhoneſt gain, whereas thoſe who are known to be in a poor and needy condition will ſtill be ſuppoſed ready to embrace any offer, how unlawful ſoever, that they may provide for their neceſsities, and get a livelyhood. We may adde a third; That ſuch is the judgment, or rather want of judgment, of the common peo<g ref="char:EOLhyphen"/>ple, that wiſdom and real worth will come ſhort of its due eſteem amongſt them, if it be overclouded with poverty:
+<pb n="15" facs="tcp:106248:10"/>
+               <q>
+                  <l>— credidit ingens<note place="margin">Horat. l. <hi>2.</hi> ſat. <hi>3.</hi>
+                     </note>
+                  </l>
+                  <l>Pauperiem vitium —</l>
+               </q> On the contrary,
+<q>
+                  <l>— qui divitias conſtruxerit, ille</l>
+                  <l>Clarus erit, fortis, juſtus, ſapiens. —</l>
+               </q> Poverty they account the greateſt vice, and no goods like to thoſe of Fortune. A fond and fool<g ref="char:EOLhyphen"/>iſh conceit this.<note place="margin">Jam 2.1</note> As we ſhould <hi>not have the faith of our Lord Jeſus Chriſt,</hi> ſo neither ought we to have the Law of the Land, <hi>with reſpect of perſons.</hi> There was not a jote more reverence and obedi<g ref="char:EOLhyphen"/>ence due to the decrees of the Roman Senat when the Court ſhone with purple then there was when there ſate there
+<q>— pelliti ruſtica corda patres.<note place="margin">Propert. l. <hi>4.</hi> el. <hi>1.</hi>
+                  </note>
+               </q> Senatours taken from the ſheepfolds, and clad with no better robes then the skins of their cattel. Truth is Truth, and Law is Law, though a poor man ſpeak it; and wiſdom is wiſdom, though it lie under ſordid raiment: Yet ſince the Vulgar will not be brought to think ſo,<note place="margin">Jam. 1 2, 3.</note> but <hi>the gay clothing</hi> and <hi>the gold-ring</hi> ſhall ſtill find <hi>reſpect</hi> from them, and <hi>the poor man's wiſdom be deſpiſed,</hi>
+               <note place="margin">Eccl. 9.16.</note> 
+               <hi>and his words not heard,</hi> it will be prudence therefore in the ſupreme Magiſtrate,<note place="margin">1 Pet 2.14.</note> when <hi>Governours</hi> are to be <hi>ſent by him for the puniſhment of evil-doers, and for the praiſe of them that do well,</hi> to obſerve Jethro's advice here to Moſes, and to pitch upon ſuch as, <hi>caeteris paribus,</hi> are the <hi>ableſt men</hi> in this laſt ſenſe, men of great and plentiful eſtates, were it for no other reaſon but this, that by thus indulging to that po<g ref="char:EOLhyphen"/>pular prejudice, which he cannot cure, he may keep Tribunals from the diſreſpect and contempt
+<pb n="16" facs="tcp:106248:11"/>they would be liable unto if men of mean fortunes were ſet upon them.</p>
+            <p>I might here take occaſion to ſpeak alſo of men of another robe, the Paſtours of Chriſt's flock, the Miniſters of the Goſpel, who being <hi>Rulers</hi> too in their proper ſphere, beſides their inward abilities, ought alſo to be <hi>able men</hi> of eſtates, and that, amongſt other reaſons, upon the like account with Magiſtrates, that their <hi>ruling</hi> and their <hi>labouring in the word and doctrine,</hi>
+               <note place="margin">1 Tim. 5 17.</note> their pains and preaching, may be of more both eſteem and efficacy. The Apoſtle would have them <hi>accounted worthy of double honour,</hi> of Maintenance, and of Reverence: But we have many amongſt us, not of the populacy onely, but (more ſhame for them) even of higher rank, who look aſquint at the Miniſter's portion, and could like it far better if God were ſerved as Je<g ref="char:EOLhyphen"/>roboam's Calves were,<note place="margin">1 Kings 12.31.</note> by <hi>the meaneſt of the people.</hi> Let ſuch men know (to ſay nothing elſe) that they are enemies herein not ſo much to the Miniſter as to God's glory and to their own ſouls. For if Sacri<g ref="char:EOLhyphen"/>lege, as it hath begun, once bring Poverty upon the Clergy, that Poverty will ſtraight uſher-in Contempt and Scorn; and then the Word of God, not being received with reverence, will be ineffe<g ref="char:EOLhyphen"/>ctual; and ſo a wide breach and floudgate will be opened for Hereſie, Irreligion, Atheiſm, and all Profaneneſs. No more of this, though the argu<g ref="char:EOLhyphen"/>ment be too neceſſary, becauſe it is not ſo ſeaſon<g ref="char:EOLhyphen"/>able. I will keep within the compaſs of the Text, that I may not exceed that of the Time. It fol<g ref="char:EOLhyphen"/>loweth,</p>
+            <p n="2">II. SUCH AS FEAR GOD. It is a large field
+<pb n="17" facs="tcp:106248:11"/>this to be ſurveyed as it ought; but that neither the remainder of my ſand nor your weighty occaſi<g ref="char:EOLhyphen"/>ons will permit. I will therefore preſent you only with a ſmall draught, and leave it to be enlarged by your private meditations.</p>
+            <p>By the <hi>Fear of God</hi> in this place (as we may ga<g ref="char:EOLhyphen"/>ther from the companions which go along with it, <hi>Love of Truth,</hi> and <hi>Hatred of Covetouſneſs</hi>) we are to underſtand that genuine and kindly ſort of Fear which is in the hearts of God's children, and which maketh them ſo ſolicitouſly careful not to offend him; an awful Reverence of the Divine Majeſty, proceeding from Love of him, and producing Obe<g ref="char:EOLhyphen"/>dience to him; Much like unto that reſpect which vertuous Wives bear unto their Husbands, or that which dutiful Children bear unto their Parents: Whence it is called <hi>Chaſt</hi> and <hi>Filial</hi> Fear.</p>
+            <p>There is alſo another ſort of Fear, of a far diffe<g ref="char:EOLhyphen"/>rent &amp; baſer allay, like unto that dread whereby an ill-conditioned ſervant is forced to do his maſter's will much againſt his own, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Do it he would not, if he durſt do otherwiſe. This by Divines is called <hi>Servile</hi> or <hi>Slaviſh</hi> Fear, by the Apoſtle <hi>the Spirit of bondage;</hi>
+               <note place="margin">Rom. 8.15.</note> becauſe it putteth a man into the poſture of a bondſlave, who hath his mind ſtill tormented with the apprehenſion of his maſter's ſtrictneſs and auſterity, and doth all he doth to eſcape the whip and the cudgel. This Fear hath for its object, not Sinne, but Puniſhment; and for its cauſe, not Love of God, as the former, but Self-love, and Love of the world, which make a man ſeek onely after eaſe, pleaſure, profit, and whatſoever elſe the Fleſh luſteth after. As for
+<pb n="18" facs="tcp:106248:12"/>God, the man who is poſſeſſed onely with this Fear, looking upon him, not as a gratious Father, but as a ſtern Judge,<note place="margin">1 John 4.18.</note> not as a Friend, but as an Ene<g ref="char:EOLhyphen"/>my, cannot chooſe but hate him. For as <hi>perfect Love,</hi> according to S. John, <hi>caſteth-out Fear,</hi> that is, tormenting Fear; ſo alſo ſlaviſh and torment<g ref="char:EOLhyphen"/>ing Fear excludeth Love. Theſe two are incom<g ref="char:EOLhyphen"/>patible and cannot ſtand together.<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Cic. O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. <hi>2.</hi>
+               </note> 
+               <hi>Quem metu<g ref="char:EOLhyphen"/>unt, oderunt: quem quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> odit, periiſſe expetit.</hi> Ungodly wretches are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Rom. 1.30.</note> 
+               <hi>haters of God,</hi> and would therefore, if it were poſsible, pluck him out of his throne; They could wiſh there were no God,<note place="margin">Pſal. 94 7.</note> or that he could <hi>not ſee,</hi> or would <hi>not regard</hi> when they do amiſs. They do what they can to put <hi>God out of all their thoughts,</hi>
+               <note place="margin">Pſal. 10 4, 11, 13</note> that they may ſin the more licentiouſly. But when they ſhall have done all they can, God will not be quite put out of their thoughts, but ever and anon the belief of his Preſence, Knowledge, Juſtice, Power ſhall im<g ref="char:EOLhyphen"/>bitter their ſinful pleaſures, check them in their in<g ref="char:EOLhyphen"/>ordinate courſes,<note place="margin">Acts 24.25.</note> and make them <hi>tremble,</hi> with <hi>Felix,</hi> at the thought of <hi>a judgment to come.</hi> For as true ſaving <hi>Faith</hi> is not in the power of man,<note place="margin">Epheſ 2 8.</note> but a ſupernatural <hi>gift of God,</hi> ſo neither is Incredulity wholly in man's power, the knowledge and belief of ſome points being as it were inbred by Nature, and common unto all, eſpecially of the Divine Eſ<g ref="char:EOLhyphen"/>ſence and Attributes, That God <hi>is,</hi> and, That he is <hi>wiſe,</hi> and <hi>juſt,</hi> and <hi>powerful,</hi> and, That <hi>he will re<g ref="char:EOLhyphen"/>ward every man according to his works.</hi> Hence that propenſion, even in the moſt ſavage and bar<g ref="char:EOLhyphen"/>barous nations, to ſome religion and the worſhip of a Deity; hence thoſe gripes of conſcience after
+<pb n="19" facs="tcp:106248:12"/>
+               <hi>wilful ſinning,</hi>
+               <note place="margin">Heb. 10.26, 27.</note> and that <hi>fearful looking-for of judg<g ref="char:EOLhyphen"/>ment,</hi> a notable inſtance whereof we have in the firſt ſinners Gen. 3. Theſe <hi>terrours of the Lord,</hi> being kindled in the breaſts of men by the light of Nature, may indeed be much encreaſed by the preaching of the Word making clearer and further diſcoveries unto them of their own ſins and of the wrath of God; but they cannot by any means be quite extinguiſhed. For let wicked men endea<g ref="char:EOLhyphen"/>vour never ſo much to blind their own eyes, to harden their hearts, and to benumme their conſci<g ref="char:EOLhyphen"/>ences, yet ſtill there will be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a conſci<g ref="char:EOLhyphen"/>ence accuſing, an heart condemning, a worm gnaw<g ref="char:EOLhyphen"/>ing, and a fire glowing:</p>
+            <q>— tacitâ ſudant praecordia culpâ,<note place="margin">
+                  <hi>Juven.</hi> 1.167.</note>
+            </q>
+            <p>ſaith the Satyriſt: and in another place moſt ex<g ref="char:EOLhyphen"/>cellently,
+<q>
+                  <l>— diri conſcia facti</l>
+                  <l>Mens habet attonitos, &amp; ſurdo verbere caedit,<note place="margin">
+                        <hi>Juven.</hi> 13.193.</note>
+                  </l>
+                  <l>Occultum quatiente animo tortore flagellum.</l>
+               </q> A kind of hell, this, upon earth, and the greateſt of all torments,
+<q>Nocte dié<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuum geſtare in pectore teſtem,<note place="margin">— 198.</note>
+               </q> to have the Conſcience continually laſhing us with the remembrance of ſin and with the fear of ven<g ref="char:EOLhyphen"/>geance.</p>
+            <p>This ſlaviſh and tormenting Fear, though it be in evil men and hypocrites, yet is not evil in itſelf, but of great uſe and benefit. For 1 ſeeing that not onely Nature teacheth us to fear the evil of puniſhment, but the Scripture alſo biddeth us, <hi>if we do evil, then to fear,</hi>
+               <note place="margin">Rom. 13 4.</note> if we ſhould do evil and not fear, we ſhould make our ſin <hi>exceeding ſinful</hi> by
+<pb n="20" facs="tcp:106248:13"/>falling into it preſumptuouſly, and lying in it ſe<g ref="char:EOLhyphen"/>curely. 2. Again, were it not for this curb, men would run into all licentiouſneſs like unbridled hor<g ref="char:EOLhyphen"/>ſes; they would make their Will and their Power the onely meaſure of then actions, and hold no<g ref="char:EOLhyphen"/>thing unlawful but what is unpoſsible: There would be no order nor quiet upon earth, but Man<g ref="char:EOLhyphen"/>kind would become <hi>like fiſhes of the ſea;</hi>
+               <note place="margin">Hab. 1.14.</note> the greater ſtill would devour the leſſer, and all outrages and villanies would be daily committed. But God putteth this fear into the hearts of men, that it may be a reſtraining grace, and hinder the perpe<g ref="char:EOLhyphen"/>trating of a world of wickedneſs. 3. Further yet, this ſervile Fear is an inſtrument not onely of God's Wiſdom and Providence in ruling the affairs of the world, but alſo oftentimes of his fatherly Mercy and loving Kindneſs to his children, whom he is wont to lead towards heaven by the gates of hell, and after he hath affrighted and afflicted them by <hi>the Spirit of Bondage,</hi> to comfort and conduct them by <hi>the Spirit of Adoption;</hi> This Fear, though not itſelf a ſanctifying and ſaving grace, yet making way for ſuch; as Fire, though it giveth not forms to metalls, yet fitteth them for the reception of forms; and the Needle, though it ſew not the cloth itſelf, yet draweth after it the threed, that doth: This we may ſee in thoſe early Converts Acts 2.<note place="margin">Acts 1 37, 38.</note> in whom <hi>Compunction of heart</hi> was the be<g ref="char:EOLhyphen"/>ginning of Converſion. God appeareth to our ſouls for the moſt part as he did to Elijah on mount Horeb,<note place="margin">1 King. 19.11, 12.</note> making the <hi>Wind,</hi> the <hi>Earthquake,</hi> and the <hi>Fire</hi> uſher-in the <hi>ſtill ſmall Voice.</hi> Moſes is <hi>our School-maſter to <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto Chriſt,</hi>
+               <note place="margin">Cal. 3.24.</note> and under
+<pb n="21" facs="tcp:106248:13"/>the terrours of the Law we are trained up to <hi>ſerve God acceptably with reverence and godly fear.</hi>
+               <note place="margin">Hebr. 12.28.</note> Firſt we learn to dread God as a Judge; and then, to reverence him as a Father: firſt, to fear the Lord and his wrath; and then,<note place="margin">Hoſ 3.5.</note> to <hi>fear the Lord and his goodneſs,</hi> as the Prophet ſpeaketh, and, as the Pſalmiſt,<note place="margin">Pſal. 130.4.</note> to <hi>fear him</hi> becauſe <hi>there is mercy</hi> and <hi>forgiveneſs with</hi> that is, (for ſuch ſenſe thoſe places may have) leſt we ſhould forfeit and come ſhort of his goodneſs and mercy. Firſt we fear leſt he ſhould find us; and then we fear leſt we ſhould loſe him: firſt we fear leſt he ſhould ſmite us; and then we fear leſt he ſhould not embrace us. Thus even this Servile Fear may be ſaid to be <hi>the begin<g ref="char:EOLhyphen"/>ning of wiſdom.</hi>
+               <note place="margin">Pſal. 111.10. Pr. 1.7. &amp; 9.10.</note>
+            </p>
+            <p>But David and Solomon his ſon (who both give that high <hi>elogium</hi> to <hi>the Fear of the Lord</hi>) are to be underſtood to ſpeak of that eminent and excellent Fear which doth not contract the heart,<note place="margin">Iſa. 60.5.</note> but <hi>enlarge</hi> it, as the Prophet ſpeaketh, doth not drive us from God, but make us cleave unto him. This Fear is not barely <hi>the beginning of wiſdom,</hi> that is, the firſt ſtep unto it, but it is (as the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> alſo ſignifieth) <hi>the head,</hi> the chief and principal point, <hi>of wiſdom,</hi> the ſumme and complement and perfection of it. <hi>Behold, the fear of the Lord, that is wiſdom,</hi> ſaith God, Job 28.28. <hi>wiſdom</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, eminently, emphatically ſo. It is of<g ref="char:EOLhyphen"/>ten put for the whole worſhip and ſervice of God, being the main root and foundation of Religion. The Preacher ſaith it is <hi>the whole duty of man,</hi> Eccl. 12.13. <hi>Let us hear,</hi> ſaith he, <hi>the concluſion of the whole matter; Fear God, and keep his com<g ref="char:EOLhyphen"/>mandments:
+<pb n="22" facs="tcp:106248:14"/>for this is the whole duty of man.</hi> Fi<g ref="char:EOLhyphen"/>lial Fear, and ſincere Obedience, that the fountain, this the ſtream, is both <hi>totum Codicis,</hi> and <hi>totum Hominis,</hi> the ſumme of God's book, and the ſumme of Man's duty, all that can be ſaid, all that ought to be done. <hi>Eſchew evil, and do good,</hi> is the Brief of the Bible. Now this Fear maketh a man not onely <hi>to depart from evil,</hi>
+               <note place="margin">Prov. 16 6.</note> (which the other Fear may do) but <hi>to hate evil,</hi>
+               <note place="margin">Prov. 8.13.</note> and that not ſo much becauſe it is deadly as becauſe it is ugly, not ſo much becauſe God will puniſh it as becauſe he doth diſlike it and hath forbidden it. It maketh a man alſo to do good, and that willingly and chear<g ref="char:EOLhyphen"/>fully.<note place="margin">Pſal. 112.1.</note> 
+               <hi>Bleſſed is the man that feareth the Lord,</hi> ſaith the Pſalmiſt: <hi>he hath great delight in his com<g ref="char:EOLhyphen"/>mandments.</hi> He who hath his heart indued with this grace will not dare to commit any ſin, not to blaſpheme God's name, not to profane his day, not to neglect his ſervice, but will with care and diligence perform the duties that God requireth of him:<note place="margin">Levit. 20.30.</note> He will <hi>keep his Sabbaths, and reverence his Sanctuary;</hi> he will attend upon his Ordinances, hearken to his word, receive the Sacrament, call upon his Name, ſeek to inform himſelf in God's will, and endeavour to conform himſelf unto it. This made Joſeph, though ſhrewdly tempted, ab<g ref="char:EOLhyphen"/>ſtein from uncleanneſs.<note place="margin">Gen. 39 9. Exod. 1.17.</note> This kept the Midwives from murthering the Hebrew infants, contrary to the expreſs command of the bloudy Tyrant. This withheld Nehemiah from oppreſsing the people,<note place="margin">Neh. 5 15.</note> when Oppreſsion was now grown cuſtomary, and he might have pleaded precedent and preſcription for it. Other <hi>Governours before him were charge<g ref="char:EOLhyphen"/>able
+<pb n="23" facs="tcp:106248:14"/>to the people,</hi> exacting proviſion and money of them, and ſuffered alſo <hi>their ſervant's</hi> to be in<g ref="char:EOLhyphen"/>ſolent and <hi>to domineer over them: But ſo did not I,</hi> ſaith he, <hi>becauſe of the fear of God.</hi> Though he was higher then the people, yet he forgot not that there was One higher then he, who ſtrictly ob<g ref="char:EOLhyphen"/>ſerved his behauiour, and would call him to account for all his actions. And this held him within due compaſs, and made him exerciſe his power to the people's advantage, and not his own.</p>
+            <p>On the contrary, where this curb is wanting, men grow impudent in ſinning, and commit all wickedneſs even with greedineſs. When the Apoſtle would ſhew the fountain of all impiety and iniquity amongſt men, he ſaith,<note place="margin">Rom. 3.8.</note> 
+               <hi>There is no fear of God before their eyes.</hi> This reaſon Abra<g ref="char:EOLhyphen"/>ham allegeth to Abimelech wherefore he was loth to own Sarah for his wife when he was come to Ge<g ref="char:EOLhyphen"/>rar, <hi>Becauſe I thought,</hi>
+               <note place="margin">Gen 20 11.</note> 
+               <hi>Surely the fear of God is not in this place, and they will ſlay me for my wives ſake.</hi> Where the fear of God is not, men will make no bones at all of murthering a Prophet and raviſhing his matrone.</p>
+            <p>From what hath been ſaid we may know what to judge of the men of this generation. Concern<g ref="char:EOLhyphen"/>ing a great part thereof we may take-up the Pſal<g ref="char:EOLhyphen"/>miſt's words,<note place="margin">Pſal 36.1.</note> 
+               <hi>The tranſgreſsion of the wicked ſaith within my heart, that there is no fear of God before their eyes.</hi> The outragious and unbridled ſins of this age, Atheiſm and Libertiniſm, Schiſm and Hereſie, Oaths and Blaſphemies, Sacrilege and Profaneneſs, Sedition and Rebellion, Bloud-ſhed and Cruelty, Oppreſsion and Injuſtice, Drunken<g ref="char:EOLhyphen"/>neſs
+<pb n="24" facs="tcp:106248:15"/>and Gluttony, Pride and Uncleanneſs, Cove<g ref="char:EOLhyphen"/>touſneſs and Uncharitableneſs, theſe notorious and horrible ſins do openly ſhew that there is little fear of God amongſt us. Thoſe few who, ma<g ref="char:EOLhyphen"/>king conſcience of their ways,<note place="margin">Prov. 1.14.</note> will not <hi>caſt-in their lot among</hi> the reſt,<note place="margin">1 Pet. 4.4.</note> and <hi>runinto the ſame exceſs of riot,</hi> are made objects of wonder and ſubjects of obloquy: The world accounteth their courſes <hi>ſtrange,</hi> and <hi>ſpeaketh evil of them.</hi> But let all un<g ref="char:EOLhyphen"/>godly wretches know, that, if they repent not, re<g ref="char:EOLhyphen"/>form not,<note place="margin">1 Pet. 4.5.</note> they ſhall ere long <hi>give account to him that is ready to judge the quick and the dead,</hi> and feel that Power which they now do not fear. And for us, Beloved, let us labour to get this holy Fear in<g ref="char:EOLhyphen"/>to our inward parts; and, ſeeing it is an heavenly and Divine grace, let us earneſtly pray with David, that God would <hi>unite our hearts</hi> unto him that we may <hi>fear his Name;</hi>
+               <note place="margin">Pſal. 86.11. Pſal. 4.4.</note> that we may <hi>ſtand in aw</hi> of him, and <hi>not ſin</hi> againſt him; that we may ſet God alwayes before us, and having ſtill a due be<g ref="char:EOLhyphen"/>lief and apprehenſion of his preſence with us, his knowledge of us, his power over us, and above all of his goodneſs unto us,<note place="margin">Acts 24.16.</note> we may <hi>exerciſe ourſelves to have always a conſcience void of offenſe toward him,</hi> and to approve not our actions alone, but alſo our very affections unto him.<note place="margin">Prov 28.14.</note> 
+               <hi>Bleſſed is the man who</hi> thus <hi>feareth always.</hi>
+            </p>
+            <p>Before I cloſe-up this point (which ſhall cloſe-up my diſcourſe at this time) let me crave leave (though indeed my Text and my Calling give me leave) to tell Judges and Magiſtrates and all that are in authority, that they ought to be <hi>ſuch as fear God.</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:106248:15"/>
+This Qualification ſtandeth, mee thinketh, in the Text like the Sun in the middle of the Planets, diſperſing his beams all about, being the fountain of light and life; or like the Heart in the midſt of the body, which is <hi>primum vivens,</hi> and ſendeth bloud and ſpirits to all the membres; or like the Poiſe or Spring in a clock, which is <hi>primum movens,</hi> and ſetteth every wheel a-going: Thus this Grace hath influence upon all its fellows, which are ſtill wont to ſprowt from it as branches from the root. That Magiſtrate who truly <hi>feareth God,</hi> will be alſo <hi>an able man</hi> both in head and heart, <hi>a man of truth,</hi> and <hi>an hater of covetouſneſs.</hi> 1. The Fear of the Lord will be unto him a principle both of Wiſdom and Courage. It will make him firſt pray and la<g ref="char:EOLhyphen"/>bour for a competent meaſure of knowledge for the diſcharge of his duty, and then with an undaunted vigour and reſolution perform it, ſcorning to be drawn or driven from it by the fawns or frowns of the world. For this noble Fear will baniſh, yea quite extinguiſh all baſe relpects and carnal fears, as fear of loſs, or danger, or diſgrace, or impriſon<g ref="char:EOLhyphen"/>ment, or death it ſelf. None of theſe, nor all theſe ſhall be able to deter a religious Magiſtrate from doing his duty. <hi>The Lord of hoſts</hi> being his <hi>fear</hi> and his <hi>dread,</hi>
+               <note place="margin">Iſa. 2.13. Iſa 51.12.</note> he will not <hi>be afraid of a Man that ſhall die, and of the Son of man, which ſhall be made as graſs;</hi> Not <hi>forgetting the Lord his Maker,</hi> he will not <hi>fear the ſury of the oppreſſour;</hi>
+               <note place="margin">—1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>Fearing Him who can caſt both body and ſoul into hell,</hi>
+               <note place="margin">Matth 10 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> he will <hi>not fear them who</hi> can but <hi>kill the body,</hi> no nor that nei<g ref="char:EOLhyphen"/>ther, not ſo much as touch an hair of the head,<note place="margin">Luke 12 4, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> without leave and power from above. He will, with
+<pb n="26" facs="tcp:106248:16"/>holy David, deſpiſe and defie all oppoſition, and that upon David's account;<note place="margin">Pſal 72.1.</note> 
+               <hi>The Lord is my light and my ſalvation; whom ſhall I fear? the Lord is the ſtrength of my life; of whom ſhall I be afraid? Though an hoſt ſhould encamp againſt me, my heart ſhall not fear.</hi>
+               <note place="margin">Pſal 23.4.</note> 
+               <hi>Yea, though I walk through the valley of the ſhadow of Death, I will fear no evil: for thou art with me.</hi> O the excellency of godly Fear! All other Fears blind and beſot a man, make him un<g ref="char:EOLhyphen"/>reaſonable, unjuſt, irreligious, ready to do any evil, ſo that he may eſcape the evil he feareth: But <hi>the fear of the Lord is the beginning of wiſdom;</hi>
+               <note place="margin">Pſal. 111.10.</note> 
+               <hi>and a good underſtanding have all they that do there<g ref="char:EOLhyphen"/>after.</hi>
+            </p>
+            <p n="2">2. Again, that Magiſtrate who truly <hi>feareth God</hi> cannot chuſe but be alſo <hi>a man of truth,</hi> and that in reſpect both of belief and of life, of opinion and of practice, of ſpeculation and of judgment. He will love the Word of God, and live accordingly; He will <hi>buy the Truth</hi> at any rate,<note place="margin">Prov. 23.23.</note> and <hi>ſell</hi> it at no rate: He will abhor all falſe doctrine, hereſie and ſchiſm, all fanatical and fond opinions, and make uſe of that power which God and his Prince have given him to diſcountenance and ſuppreſs them. And as he will be <hi>a man of truth</hi> in reference to the firſt Ta<g ref="char:EOLhyphen"/>ble, ſo will he alſo be in reference to the ſecond, be<g ref="char:EOLhyphen"/>ing by his Office <hi>cuſtos utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Tabulae.</hi> He will be a friend to Juſtice, (which is eſpecially meant here by <hi>Truth</hi>) and a ſo to Falſhood and Wrong. He will neither offer injuries himſelf, nor ſuffer in<g ref="char:EOLhyphen"/>juries in others; but will <hi>truly and indifferently ad<g ref="char:EOLhyphen"/>miniſter juſtice to the puniſhment of wickedneſs and vice, and to the maintenance of true Religion and
+<pb n="27" facs="tcp:106248:16"/>vertue.</hi> He will <hi>put-on righteouſneſs,</hi>
+               <note place="margin">Job 19.14</note> 
+               <hi>and it ſhall clothe him; and his judgment ſhall be as a robe and a diadem:</hi> He will count exſecuting of judgment a greater ornament unto him then his purple and ſcarlet, and glory no leſs in it then Kings do in their Crowns and Sceptres. This it is for a Judge to be <hi>a man of truth.</hi> A copious and neceſſary Theme, had we time to handle it. But being loth to make the Pulpit treſpaſs upon the Tribunal, I give you but a ſmall view of it by the By, and ſpeak of this Qualification (as I ſhall alſo of the laſt) only as an inſeparable companion of the former, That the Judge who <hi>feareth God</hi> will be ſure to be <hi>a man of truth.</hi> Conſidering that he ſitteth in the ſeat of God, that he doth the work of God, that he <hi>judge<g ref="char:EOLhyphen"/>eth not for man, but for God,</hi>
+               <note place="margin">2 Chron. 19.6.</note> 
+               <hi>who is with him in the judgment,</hi> that he beareth the name of <hi>God</hi> and is a petty <hi>God</hi> upon earth,<note place="margin">Exod. 22.28. Pſal. 82.1, 6.</note> he will not dare to walk contrary to God's command and example, but will <hi>follow God as a dear child,</hi>
+               <note place="margin">Epheſ. 5.1.</note> and as God is <hi>the God of truth,</hi> ſo will he be <hi>a man of truth:</hi>
+               <note place="margin">Deut. 32.4.</note> He will uſe all poſsible prudence and pains and patience in ſifting and bolting out of the truth: He will hear both parties, examin witneſſes, ſcan wri<g ref="char:EOLhyphen"/>tings and evidences, weigh every information and circumſtance; and after that by diligent in<g ref="char:EOLhyphen"/>quiſition he hath found out the truth, he will ſtoutly maintain it by pronouncing ſentence accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="3">3. Laſtly, from <hi>the Fear of God</hi> will aſſuredly flow <hi>an Hatred of Covetouſneſs,</hi> ſince theſe two cannot poſsibly ſtand together,<note place="margin">Pſal. 111 13. 1 Tim. 6 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>the Beginning of Wiſdom</hi> &amp; <hi>the Root of all evil.</hi> That Judge, that Juſtice, hat
+<pb n="28" facs="tcp:106248:17"/>Advocate, that Jurour, that Witneſs, that Infor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>, that perſon whatſoever he be, who is greedy of filthy lucre, hath no true fear of God before his eyes: He maketh Gold his God, he ſerveth Mam<g ref="char:EOLhyphen"/>mon, he loveth the World,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 2.15.</note> and therefore <hi>the love of the Father is not in him:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 44.</note> for <hi>the Love of the world is enmity with God.</hi> This is the bane of Courts, the corruption of Juſtice, the inchantment of Ma<g ref="char:EOLhyphen"/>giſtrates: It transformeth them, and maketh them quite contrary to what they ſhould be, ſo that of Patrones of the oppreſſed themſelves become the ſoreſt Oppreſſours, of Shepherds they become <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Ezek. 22 27.</note> 
+               <hi>wolves ravening the prey, ſhedding bloud, deſtroying ſouls, getting diſhoneſt gain:</hi> It maketh them neither ſee, nor hear, nor ſpeak, nor act as they ought, but do all againſt both ſcience and conſcience:<note place="margin">Deut. 16 19.</note> It <hi>blindeth the eyes of the wiſe, and perverteth the words of the righteous.</hi> An in<g ref="char:EOLhyphen"/>ſtance whereof we have in the young Judges of Beer-ſheba, 1 Sam. 8.3. who <hi>turning aſide after lucre, and taking bribes, perverted judgment,</hi> con<g ref="char:EOLhyphen"/>trary to the good example their aged father Sa<g ref="char:EOLhyphen"/>muel had given them. We need not look ſo far for an inſtance;<note place="margin">Prov. 1.19.</note> for <hi>ſo are the wayes of every one that is greedy of gain.</hi> And all this is through want of of the Fear of God; Wherewith whoſoever is in<g ref="char:EOLhyphen"/>dued, he will infinitely prefer the ſerving of God and the preſerving of his own ſoul before the gain<g ref="char:EOLhyphen"/>ing of the whole world. This Grace (as hath al<g ref="char:EOLhyphen"/>ready been noted) moved that good Governour Nehemiah to chuſe rather to part with his allow<g ref="char:EOLhyphen"/>ance and cuſtomary proviſion then to ſeem a gri<g ref="char:EOLhyphen"/>ping oppreſſour of a neceſsitous people.<note place="margin">Neh. 5.15.</note> This King
+<pb n="29" facs="tcp:106248:17"/>Jehoſhaphat, in that excellent Charge he giveth to his Judges,<note place="margin">2 Chron. 19.7.</note> recommendeth as a ſovereign <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and Preſervative againſt Bribery, Par<g ref="char:EOLhyphen"/>tiality, and all Injuſtice; <hi>Wherefore now,</hi> ſaith he, <hi>let the fear of the Lord be upon you; take heed, and do it: for there is no iniquity with the Lord our God, nor reſpect of perſons, nor taking of gifts.</hi> None of theſe are with God; neither are any of theſe with the godly, who ſincerely fear him. But if this Fear be wanting, we may come to <hi>the place of judg<g ref="char:EOLhyphen"/>ment,</hi>
+               <note place="margin">Eccl 3.16.</note> and <hi>wickedneſs will be there;</hi> and to <hi>the place of righteouſneſs,</hi> and <hi>iniquity will be there:</hi> we may <hi>look for judgment, but behold oppreſsion;</hi>
+               <note place="margin">I a. 5.7.</note> 
+               <hi>for righ<g ref="char:EOLhyphen"/>teouſneſs, but behold a cry.</hi> This that great Foun<g ref="char:EOLhyphen"/>tain of Poetry, and indeed of all Learning, though they ſay he was blind, yet ſaw clearly, that Con<g ref="char:EOLhyphen"/>tempt of God is the ſourſe of all Injuſtice;
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,<note place="margin">
+                        <hi>Ilia.</hi> 
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. 388.</note>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> Thus he. And to the ſame ſenſe ſpeaketh that ex<g ref="char:EOLhyphen"/>cellent Roman who ſo happily emulated the Greek, ſome ſay outwent him;
+<q>Diſcite juſtitiam moniti, &amp; non temnere Divos.<note place="margin">
+                     <hi>AEN.</hi> 6.620.</note>
+               </q> Would to God that all Magiſtrates, and others who have to do in Courts of judicature, would fol<g ref="char:EOLhyphen"/>low the counſel of this heathen Monitour, and learn to fear God above, and to exerciſe and exſecute righteouſneſs here below. This duty not onely the Scripture (as ye have heard) commandeth, but even natural Reaſon alſo requireth, as might fur<g ref="char:EOLhyphen"/>ther be made to appear by many other paſſages of ſober Ethnick writers. Surely then if Chriſtians prove guilty of the non-performance hereof, and
+<pb n="30" facs="tcp:106248:18"/>be like the Judge in the Goſpel,<note place="margin">Luke 12 2.</note> 
+               <hi>which feared not God, neither regarded man,</hi> their ſin will be ſorely aggravated and their condemnation exceedingly in<g ref="char:EOLhyphen"/>creaſed by their enjoyment of clearer light and greater means to have done better.</p>
+            <p>Let me therefore earneſtly intreat and beſeech you, Honourable, Worſhipful, Beloved, that ye will fear the Lord God of heaven and earth, and or<g ref="char:EOLhyphen"/>der all your ways accordingly: And that to this end ye will carry ſtill in your breaſts a ſerious appre<g ref="char:EOLhyphen"/>henſion of God's Preſence, his Knowledge, his Ju<g ref="char:EOLhyphen"/>ſtice, his Power, and his Goodneſs.</p>
+            <p n="1">1. For the firſt;<note place="margin">Epiſt. <hi>11.</hi>
+               </note> Seneca ſaith truly, <hi>Magna pars peccatorum tollitur, ſi peccaturis teſtis adſiſtat.</hi> Privacy and ſolitude is a great temptation to wic<g ref="char:EOLhyphen"/>kedneſs; and the preſence of witneſſes is oft an hindrance and prevention. In this regard, as much as in any,<note place="margin">Gen 2.18.</note> we may ſay, <hi>It is not good for a man to be alone,</hi>
+               <note place="margin">Eccl. 4.10.</note> and, <hi>We be to him that is ſo.</hi> Therefore the Stoick well adviſeth his friend Lucilius to obſerve the precept of Epicurus,<note place="margin">Epiſt. <hi>25.</hi>
+               </note> 
+               <hi>Sic fac omnia, tanquam ſpectet aliquis;</hi> Still to phanſie ſome grave perſo<g ref="char:EOLhyphen"/>nage, ſuch as Cato, or Scipio, or Lelius, ſtanding by him, and obſerving his carriage. Without phanſying, we have really and in good earneſt a far more ſevere <hi>Arbiter</hi> then Cato continually preſent. For we ſay of every place, whether ſacred or pro<g ref="char:EOLhyphen"/>fane, whether publick or private, as Jacob did of Bethel,<note place="margin">Gen. 28.16.</note> 
+               <hi>Surely the Lord is in this place, though we were not aware.</hi> The Pſalmiſt telleth us that, which way ſoever we bend our courſe,<note place="margin">Pſal. 139.7.</note> we cannot <hi>go from God's Spirit,</hi> nor <hi>flee from his preſence.</hi> But though he be preſent everywhere, yet is he eſpecially pre<g ref="char:EOLhyphen"/>ſent
+<pb n="31" facs="tcp:106248:18"/>in his own Courts, and in yours.<note place="margin">Rev. 2.1.</note> He <hi>walketh in the midſt of the ſeven golden candle ſticks;</hi> and he <hi>ſtandeth in the congregation of the mighty,</hi>
+               <note place="margin">Pſal. 82 1. 2 Chron. 19 6. <hi>De Legib.</hi> 6.</note> and <hi>is with them in the judgment.</hi> Plato ſaith it was a cu<g ref="char:EOLhyphen"/>ſtom amongſt the antients to build their Judges Court cloſe by the Temple of the Gods, that the neighbourhood of that ſacred place might ſtrike reverence into the Magiſtrate, and make him take the better heed what he did. And the Ethiopian Judges, they ſay, were wont ſtill to leave their higheſt ſeats empty for the Angels to come down and ſit in. They thought ſo great matters as the Lives and Livelihoods of Men might not be decid<g ref="char:EOLhyphen"/>ed unleſs the Gods themſelves were of the <hi>Quo<g ref="char:EOLhyphen"/>rum;</hi> and therefore they reſerved places for them. But be ye aſſured, that how full ſoever your Hall anon be thwacked and thronged, the God of An<g ref="char:EOLhyphen"/>gels and Men will find room amongſt you. He will be in every place, in every corner, on the Judge's bench, at the Lawyer's bar, in the Jurour's cham<g ref="char:EOLhyphen"/>ber or meeting-place. Therefore let every man ſtand in aw of him, and none dare to misbehave himſelf in ſo dreadful a preſence.</p>
+            <p n="2">2. But ſome haply may conceit, like that fooliſh bird, that becauſe they ſee not, they are not ſeen, and conſequently need not fear; Let ſuch there<g ref="char:EOLhyphen"/>fore, in the ſecond place, know and conſider, that God is not onely preſent with them, but privy to them; and though none ſee him, yet he ſeeth all thorowly:</p>
+            <q>—<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>He <hi>is acquainted with all our ways;</hi>
+               <note place="margin">Pſal. 139.2, 3, 4.</note> 
+               <hi>There is not a word in our tongue, but he knoweth it altogether;</hi>
+               <pb n="32" facs="tcp:106248:19"/>Yea,<note place="margin">1 S m. 16 7.</note> he <hi>underſtandeth our thoughts afar off.</hi> He <hi>ſeeth not as Man ſeeth: for Man looketh on the out<g ref="char:EOLhyphen"/>ward appearance, but the Lord looketh on the heart.</hi> Man, whoſe eye can pierce no further then the out<g ref="char:EOLhyphen"/>ſide, may eaſily be deceived and couſened by the fair ſhews that crafty companions can cloke them<g ref="char:EOLhyphen"/>ſelves and diſguiſe their falſhood withall: But God <hi>trieth the reins,</hi>
+               <note place="margin">Jer 11.20. Prov. 16.2. Pſal 44 21.</note> and <hi>weigheth the ſpirits,</hi> and <hi>know<g ref="char:EOLhyphen"/>eth the very ſecrets of the heart:</hi> Impoſsible there<g ref="char:EOLhyphen"/>fore it will be for any to delude and mock him, or to hide his very inmoſt purpoſes and intentions from him. Oh who can chooſe but fear to com<g ref="char:EOLhyphen"/>mit ſin, that conſidereth he ſtandeth before ſuch an <hi>Ephor us</hi> as this! It would be prodigious bold<g ref="char:EOLhyphen"/>neſs for a man to cut a purſe, much more to cut a throat, before the eye of an earthly Judge: What high and horrid preſumption then is it for Chriſti<g ref="char:EOLhyphen"/>ans, who profeſs a belief of God's Omniſcience, to go about by malicious and fraudulent practices to deprive their innocent brethren of life, or liberty, or goods, or good-name? That all-ſeeing Eye, one would think, might ſuffice to reſtrain us not onely from acting, but even from thinking, ſuch miſchief. And ſo it would, were it well thought of. It would quench the ſparks of ſin ere they raiſe a flame; It would nip thoſe curſed buds, and not ſuffer them to ripen; It would cruſh the cocka<g ref="char:EOLhyphen"/>trice-egs, that they never ſhould be hatched into ſerpents. But alas! it is to be feared, few there are who ſet God continually before them, and therefore few there are who walk uprightly before him.<note place="margin">Pſal 10 11.13. &amp; 73 11.</note> This reaſon the Pſalmiſt giveth more then once of the Fraud and Cruelty of the ungodly;
+<pb n="33" facs="tcp:106248:19"/>
+               <hi>They ſay,</hi> ſaith he, <hi>The Lord ſhall not ſee,</hi>
+               <note place="margin">Pſal. 94.7.</note> 
+               <hi>neither ſhall the God of Jacob regard it.</hi> Let me anſwer and ſilence ſuch men (if there be any thing of Man left in them) with the words that follow; <hi>Under<g ref="char:EOLhyphen"/>ſtand, ye brutiſh among the people: and, ye fools,</hi>
+               <note place="margin">— 8. — 9.</note> 
+               <hi>when will ye be wiſe? He that planted the ear, ſhall he not hear? and he that formed the eye, ſhall he not ſee?</hi> He doth ſee thee, though thou thinkeſt he doth not, from <hi>the height of heaven,</hi>
+               <note place="margin">Job 22.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.13.</note> and <hi>through the dark cloud.</hi> His <hi>eyes,</hi> ſaith the ſon of Sirach,<note place="margin">Eccl. 23.19.</note> 
+               <hi>are ten thouſand times brighter then the Sun, be<g ref="char:EOLhyphen"/>holding all the ways of men, and conſidering the moſt ſecret parts.</hi> He ſeeth, and heareth, and under<g ref="char:EOLhyphen"/>ſtandeth infinitely more then all the world, and diſcerneth that which none elſe can; that being true of him which the Delphick Devil ſaid falſly of himſelf,
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.<note place="margin">Herdot. Ci<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>.</note>
+                  </l>
+               </q> He counteth the Sands on the ſhore, and the Drops of the deep; and, which is much more, he is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <hi>knoweth what is in man.</hi>
+               <note place="margin">Acts 1.24. John 2.25.</note> He taketh exact notice not onely of that which co<g ref="char:EOLhyphen"/>meth from thee, but of that alſo which is contri<g ref="char:EOLhyphen"/>ved within thee, of all the plots and projects that thou art forging in thy brain or breaſt. Since God's Eye therefore doth ſo narrowly watch thee, let it be thy care to ſet a ſtrict watch over thyſelf, not over thy Tongue and Hands alone, but alſo over thy Heart, and ſuffer not evil thoughts to lodge within thee.</p>
+            <p n="3">3. But again, ſome there are who, notwith<g ref="char:EOLhyphen"/>ſtanding all this, bleſs themſelves in their own
+<pb n="34" facs="tcp:106248:20"/>hearts, and hold it folly for a man to amuze and amaze his mind with the conceit of Gods Omni<g ref="char:EOLhyphen"/>ſcience, ſince though he ſeeth and knoweth never ſo much, he neither doth nor ſaith any thing;
+<q>Nec bene promeritis capitur,<note place="margin">L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>c. et. <hi>3.</hi>
+                  </note> nec tangitur ir â.</q> His favour is neither won with good ſervices, nor loſt with bad; but he ſtandeth an indifferent and unconcerned ſpectatour of humane actions. <hi>They conſent with thieves,</hi>
+               <note place="margin">Pſal 50.18.</note> 
+               <hi>and are partakers with adulte<g ref="char:EOLhyphen"/>rers; They give their mouths to evil,</hi>
+               <note place="margin">— 19.</note> 
+               <hi>and their tongues frame deceit;</hi>
+               <note place="margin">— 20.</note> 
+               <hi>They ſit and ſpeak againſt their brother,</hi>
+               <note place="margin">— 21.</note> 
+               <hi>and ſlander their own mothers ſon: Theſe things they do; and God keepeth ſilence,</hi> and there<g ref="char:EOLhyphen"/>fore <hi>they think that he is altogether ſuch a one as them<g ref="char:EOLhyphen"/>ſelves;</hi> They take his ſilence for conſent: And <hi>becauſe ſentence againſt</hi> their <hi>evil works is not exſe<g ref="char:EOLhyphen"/>cuted ſpeedily,</hi>
+               <note place="margin">Eccl <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 11.</note> 
+               <hi>therefore their heart is fully ſet in them to do evil.</hi> They ſee not groſs offenders laid hold on by Divine Juſtice <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the very act; They ſee not Knights of the poſt, falſe Witneſſes and forſworn Jury-men,<note place="margin">Acts 5 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 10.</note> ſerved as Ananias and Sap<g ref="char:EOLhyphen"/>phira were, ſtruck dead with the lie in their mouths; They ſee not unconſcionable Lawyers ſtruck dumb at the bar for miſemploying that excellent gift of Eloquence in gilding-over cauſes manifeſtly rotten,
+<q>— non hos quaeſitum mun us in uſus;<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 4 647.</note>
+               </q> They ſee not corrupt and unjuſt Judges ſuddenly plucked from the Bench below to the Bar above; They find that by wronging and ruining of others themſelves <hi>proſper in the world,</hi>
+               <note place="margin">Pſal. 73.12.</note> and <hi>increaſe in riches:</hi> And hence they conclude, that, though God ſee their courſes, he diſliketh them not; hence they embolden, and harden, and ſtreng then
+<pb n="35" facs="tcp:106248:20"/>themſelves in their wickedneſs, deſpiſe the threat<g ref="char:EOLhyphen"/>nings of God, and abuſe <hi>his goodneſs,</hi>
+               <note place="margin">Rom. 2.4.</note> 
+               <hi>and forbear<g ref="char:EOLhyphen"/>ance, and long-ſuffering,</hi> which ſhould <hi>lead them to repentance.</hi>
+               <note place="margin">Prov. 1.32.</note> Thus <hi>eaſe and proſperity deſtroy ſilly ones.</hi> O that theſe men would believe the Scrip<g ref="char:EOLhyphen"/>tures! Thence they might learn that God is infi<g ref="char:EOLhyphen"/>nite in Juſtice as well as in Knowledge;<note place="margin">Pſal. 5 4.</note> that <hi>he is not a God that hath pleaſure in wickedneſs,</hi>
+               <note place="margin">— 5.</note> but <hi>ha<g ref="char:EOLhyphen"/>teth all workers of iniquity,</hi>
+               <note place="margin">— 6.</note> and <hi>abhorreth the bloudy and deceitful man;</hi>
+               <note place="margin">Gen. 18 25.</note> that he is <hi>the Judge of all the earth,</hi> and <hi>will do right;</hi>
+               <note place="margin">Exod. 34.7.</note> that <hi>he will by no means clear the guilty,</hi> but though at preſent he <hi>endure with much long-ſuſſering the veſſels of wrath,</hi>
+               <note place="margin">Rom. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.21.</note> he will in due time make himſelf <hi>known by exſecuting judg<g ref="char:EOLhyphen"/>ment:</hi>
+               <note place="margin">Pſal. 9.16.</note> Though he now <hi>keep ſilence,</hi>
+               <note place="margin">Pſal. 50.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> yet preſump<g ref="char:EOLhyphen"/>tuous ſinners ſhall one day find, if in the mean while they repent not, <hi>he will reprove them,</hi>
+               <note place="margin">Eccl. 12.14.</note> 
+               <hi>and ſet all their ſins in order before their eyes: Every work will he bring into judgment, with every ſecret thing, whether good or evil.</hi> Then impenitent wretches ſhall feel the patience they abuſed turned into fury, and the blow they feared not fall the heavier by how much it was the longer in fetching.<note place="margin">Pſal 50 22.</note> 
+               <hi>Now conſider this, ye that forget God, leſt he tear you in pieces, and there be none to deliver.</hi>
+            </p>
+            <p n="4">4. But ſtill perhaps ſome there are who love to flatter and feed themſelves with vain hopes of ſcap<g ref="char:EOLhyphen"/>ing well enough at that dreadful day of doom, great men eſpecially, ſuch as here upon earth have had both the face and fortune to overbear right by might, to baffle Magiſtrates, to elude the Laws of the Land, to <hi>break all bands aſunder,</hi>
+               <note place="margin">Pſal. 2 3.</note> to <hi>caſt away all cords from them,</hi> and to paſs through eve<g ref="char:EOLhyphen"/>ry
+<pb n="36" facs="tcp:106248:21"/>obſtacle with as much eaſe and ſport as Waſps and Hornets bruſh through the nets of Spiders. Such ſights as theſe the late times have preſented us with more then a good many. We have ſeen <hi>Folly ſet in great dignity,</hi>
+               <note place="margin">Eccl 10 6.</note> 
+               <hi>and the rich ſit in low place:</hi>
+               <note place="margin">— 7.</note> We <hi>have ſeen ſervants on horſes, and princes walking as ſervants on the earth:</hi> And
+<q>Aſperius nihil eſt humili, cùm ſurgit in altum.</q> We have ſeen the very dung and duſt of the earth flie in the face of Authority and Majeſty it ſelf. We have ſeen men well worthy to have been ad<g ref="char:EOLhyphen"/>vanced to the gibbet, ſitting gravely on the Bench, and not only truſsing-up far leſſer offenders then themſelves, but alſo oftentimes ſentencing honeſt and loyal ſnbjects, yea, (which is the height of villany) their liege Sovereign, unto death. Cer<g ref="char:EOLhyphen"/>tainly theſe bold wretches feared not the fury and force of the Almighty. But if there be any of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, of that brood of Titans, yet above ground,<note place="margin">Pſal 2.4.</note> let them know that <hi>He who ſitteth in the heavens will laugh them to ſcorn, the Lord will have them in deriſion;</hi> And that what power ſoever they either have had, or ſtill have, over men, they can have none at all over God, who is omnipotent, and regardeth neither the perſons, nor power, nor num<g ref="char:EOLhyphen"/>ber of his enemies; But though they be never ſo many,<note place="margin">Lake 19.42.</note> never ſo mighty, unleſs <hi>in this their day they know the things which belong unto their peace,</hi> He will in that day of his <hi>break them with a rod of iron,</hi>
+               <note place="margin">Pſal 2.9.</note> 
+               <hi>and daſh them in pieces like a potters veſſel.</hi>
+               <note place="margin">Pſal. 9 17.</note> By one word of his mouth all <hi>the wicked ſhall be turned into hell, and all the people that forget God!</hi> Thy preſent wealth ſhall not be able to purchaſe thy pardon, nor
+<pb n="37" facs="tcp:106248:21"/>thy preſent dignity to procure any exemption. Thou ſhalt fare no better then the meaneſt ſinner: Nay, much worſe: for, <hi>Potentes potenter;</hi>
+               <note place="margin">Wiſd. 6.6.</note> 
+               <hi>Mighty ſinners ſhall be mightily tormented,</hi> Wiſd. 6. a Chapter worthy to be ſeriouſly peruſed by all great men, that they may become good as well as great. I will ſhut up this point with the words of the Pſal<g ref="char:EOLhyphen"/>miſt; <hi>Be wiſe now therefore, O ye Magiſtrates; be inſtructed, ye Judges of the earth.</hi>
+               <note place="margin">Pſal. 2.10.</note> Learn this leſ<g ref="char:EOLhyphen"/>ſon, That God's Preſence cannot be avoided, his Knowledge cannot be deluded, his Juſtice cannot be corrupted, his Power cannot be reſiſted; Learn this, and ye will be wiſe indeed: for then ye will <hi>ſerve the Lord in fear.</hi>
+               <note place="margin">— 11.</note>
+            </p>
+            <p>Theſe Notes haply may ſeem harſh and unplea<g ref="char:EOLhyphen"/>ſant: But they ſhould not do ſo, ſince they are very profitable, and may (with the concent and concurrence of God's grace) like the ſtrokes of Da<g ref="char:EOLhyphen"/>vid's harp, ſerve to allay and charm the evil ſpirit that is in us, and to ſettle and compaſs our minds in a right tune and harmony. But though the Strings be good, I will touch them no more at preſent, but ſlip over them to another, with which I will endea<g ref="char:EOLhyphen"/>vour to cloſe ſweetly.</p>
+            <p n="5">5. In the laſt place, let all Magiſtrates, for the ingendring and increaſing <hi>the Fear of God</hi> in their hearts, often remember and conſider the Goodneſs of God unto them and his Favours be<g ref="char:EOLhyphen"/>ſtowed upon them; How he hath placed them in the nobleſt rank of his earthly creatures, and indu<g ref="char:EOLhyphen"/>ed them with rational and immortal ſouls, capable of grace and glory; How he hath called them to knowledge of him, to faith in him, to hopes of li<g ref="char:EOLhyphen"/>ving
+<pb n="38" facs="tcp:106248:22"/>for ever with him; How he hath raiſed them aloſt, and ſet them above their brethren; hath put Wiſdom into their heads, and the Sword into their hands; made them Oracles of juſtice, Living Laws, Pillars and Props of the Common-wealth, <hi>Eyes to the blind, Feet to the lame, Fathers to the Poor,</hi>
+               <note place="margin">Job 29.15, 16.</note> a Refuge to the oppreſſed, and a Terrour to oppreſſours, in a word, his own Miniſters and Vice<g ref="char:EOLhyphen"/>gerents and Repreſentatives upon earth. <hi>Gods</hi> they are all, and <hi>Children of the Moſt high:</hi> He himſelf ſtileth them ſo Pſal. 82.6. Such honour have all Chriſtian Magiſtrates. Now let every Magiſtrate ſeriouſly conſider this, and in ſtead of being proud of God's gifts, <hi>as if he had not received them,</hi>
+               <note place="margin">1 Cor. 4.7.</note> he will bethink and beſpeak himſelf with the Pſalmiſt,<note place="margin">Pſal. 116.12.</note> 
+               <hi>What ſhall I render unto the Lord for all his benefits towards me?</hi> and finding himſelf to be the Child of God in ſo many reſpects, by Creati<g ref="char:EOLhyphen"/>on, by Adoption, by Office and Authority, as a Man, as a Chriſtian, as a Magiſtrate, he will hold himſelf bound as it were by a threefold cord to ſerve his heavenly Father with filial Fear and Reverence.</p>
+            <p>I have done with the ſecond Qualification of Judges; but have inſiſted on it ſo long, that the time will not now ſuffer me to ſpeak, as I once in<g ref="char:EOLhyphen"/>tended, of thoſe two that remain. Neither in<g ref="char:EOLhyphen"/>deed will it be neceſſary that I ſhould, if what hath been ſpoken concerning <hi>the Fear of God</hi> be believed and practiced as it ought, ſeeing thoſe other Qua<g ref="char:EOLhyphen"/>lifications, as I told you, naturally flow from this, and conſtantly attend upon it, like handmaids up<g ref="char:EOLhyphen"/>on their miſtreſs. Thoſe Judges who <hi>fear God,</hi>
+               <pb n="39" facs="tcp:106248:22"/>will be alſo <hi>Men of truth,</hi> and <hi>Haters of covetouſneſs.</hi> Which that all of us, not only Magiſtrates, but Subjects, may be, the God of all grace grant through Jeſus Chriſt our Lord: To whom with the Father and the holy Ghoſt be all honour and glory for evermore.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
